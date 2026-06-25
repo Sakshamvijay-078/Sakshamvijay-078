@@ -1,27 +1,151 @@
-# 💫 About Me:
-🔭 I’m currently working on Agentic AI Systems, Full-Stack Applications, and Scalable Backend Architectures.<br>👯 I’m looking to collaborate on Open Source, AI/ML Projects, Developer Tools, and Full-Stack Applications.<br>🤝 I’m looking for help with MLOps, Distributed Systems, and Building Production-Ready AI Systems.<br>🌱 I’m currently learning System Design, LLM Engineering, Cloud Computing, and DevOps.<br>💬 Ask me about C++, Data Structures & Algorithms, React, Next.js, FastAPI, Node.js, and Machine Learning.<br>⚡ Fun fact: I love turning ambitious ideas into real products and can spend hours debugging until I understand every detail.
+<div align="center">
 
+# Saksham Vijay
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/saksham-vijay-69541a288) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshamvijay07@gmail.com) 
+**Agentic AI Engineer · Full-Stack Developer**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sakshamvijay-078&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Sakshamvijay-078&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sakshamvijay-078&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:sakshamvijay07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saksham-vijay-69541a288)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Sakshamvijay-078)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sakshamvijay-078&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+```
+$ whoami
+saksham vijay — agentic AI engineer & full-stack developer
+final-year B.Tech (EE), IIT Jammu — building systems that survive contact with real traffic
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sakshamvijay-078&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+$ status
+shipping   -> Panda, an agentic LLM platform (LangGraph + FastAPI, SSE streaming)
+shipped    -> fintech app in production at Techible · fraud pipeline at 100+ tx/sec
+learning   -> Kubernetes, Terraform, distributed systems
+open_to    -> SDE / AI-ML internships & full-time roles
+```
+
+<!--CF_STATS:START-->
+![Codeforces](https://img.shields.io/badge/Codeforces-1459-000000?style=flat-square)
+<sub>static — wire up `scripts/update_stats.py` below to make this self-updating</sub>
+<!--CF_STATS:END-->
+![LeetCode](https://img.shields.io/badge/LeetCode-250%2B%20solved-000000?style=flat-square)
+![Mentoring](https://img.shields.io/badge/Mentored-30%2B%20students-000000?style=flat-square)
+![Role](https://img.shields.io/badge/Coding%20Club%20IIT%20Jammu-Co--Head%2C%20Web%20Dev-000000?style=flat-square)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sakshamvijay-078&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Now building — Panda
+
+*FastAPI · LangGraph · LangChain · Groq (Llama 3) · Next.js 14 · Supabase · PostgreSQL*
+
+Agentic chat platform with tool-using LangGraph workflows and real-time token streaming over SSE.
+
+```mermaid
+flowchart LR
+    U[User] -->|HTTP / SSE| API[FastAPI Gateway]
+    API --> Auth[JWT Auth + Rate Limiter]
+    Auth --> Graph[LangGraph Agent]
+    Graph -->|tool call| Search[Web Search / Scrape]
+    Graph -->|tool call| PDF[PyMuPDF Ingestion]
+    Graph --> Mem[(PostgreSQL<br/>Memory Store)]
+    Mem --> Summ[Async Fact Extraction<br/>+ Rolling Summary]
+    Graph -->|token stream| API
+    API -->|SSE| U
+```
+
+**Engineering decisions that mattered:**
+- Rolling summaries with auto-compression instead of raw history replay — keeps context bounded as conversations grow, at the cost of some recall fidelity.
+- Fact extraction runs async and off the critical path, so memory writes never add latency to the user-facing stream.
+- BYOK key encryption + JWT validation + rate limiting, added once the project moved from "working" to "exposed to the internet."
+
+[Live demo](#) · [Source](#)
+
+---
+
+## Selected work
+
+<details>
+<summary><strong>Real-time fraud detection system</strong> — Kafka · Pathway · LightGBM · TinyLlama · AWS EC2</summary>
+
+<br>
+
+```mermaid
+flowchart LR
+    Txn[Transaction Stream] -->|Kafka| Pathway[Pathway Engine]
+    Pathway --> Cache[(Bounded Memory Cache)]
+    Pathway --> River[River: Online Model]
+    Pathway --> LGBM[LightGBM: Batch Model]
+    River --> Fuse{Hybrid Scorer}
+    LGBM --> Fuse
+    Fuse -->|flagged| XAI[TinyLlama: XAI Microservice]
+    XAI --> Alert[Human-Readable Incident Report]
+```
+
+Ingests 100+ transactions/sec with bounded memory caching. The hybrid scorer exists because online learning alone (River) reacts fast but drifts, and batch models alone (LightGBM) are accurate but stale — combining both trades a bit of complexity for stability under concept drift. Flags aren't just scores: a locally quantized TinyLlama model turns each flag into a narrative report a non-ML analyst can act on.
+
+[Source](#)
+
+</details>
+
+<details>
+<summary><strong>LiSenNet — lightweight speech enhancement</strong> — PyTorch · Signal Processing</summary>
+
+<br>
+
+Independent implementation and extension of LiSenNet (ICASSP 2025) on VoiceBank-DEMAND. Added a noise classifier, a skip-refinement block, and swapped in an SI-SNR loss — pushing PESQ to **3.094** against the paper's reported **3.070**.
+
+[Source](#)
+
+</details>
+
+<details>
+<summary><strong>KnightShift — real-time multiplayer chess</strong> — React · Node.js · WebSockets · MongoDB</summary>
+
+<br>
+
+Dual-backend architecture: WebSockets carry low-latency gameplay state, Express/MongoDB handle auth and persistent game storage — split deliberately so a slow auth query can never stall a live move. Global matchmaking, an AI opponent, and graceful reconnection handling for dropped connections.
+
+[Live demo](#) · [Source](#)
+
+</details>
+
+---
+
+## Experience
+
+**Mobile App Developer Intern, Techible** (May–Sept 2025) — React Native crypto fintech app: wallet management, Visa card onboarding, live crypto-payment infra, Veriff-based KYC, referral/analytics systems.
+
+---
+
+## Stack
+
+```yaml
+languages: [C++, Python, TypeScript, JavaScript, SQL, Bash]
+ai_ml:     [PyTorch, TensorFlow, LangChain, LangGraph, Groq, OpenCV]
+backend:   [FastAPI, Node.js, GraphQL, WebSockets, REST]
+frontend:  [React, Next.js, React Native, TailwindCSS]
+data:      [PostgreSQL, MongoDB, Redis, Apache Kafka, Pathway, Supabase]
+devops:    [Docker, AWS (EC2 / S3 / Lambda), Git, Linux]
+learning:  [Kubernetes, Terraform, distributed systems]
+```
+
+---
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sakshamvijay-078&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D">
+  <img width="48%" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Sakshamvijay-078&show_icons=true&bg_color=FFFFFF&title_color=24292F&text_color=57606A&icon_color=0969DA&border_color=D0D7DE">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sakshamvijay-078&background=0D1117&border=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF">
+  <img width="48%" alt="GitHub streak" src="https://streak-stats.demolab.com?user=Sakshamvijay-078&background=FFFFFF&border=D0D7DE&ring=0969DA&fire=0969DA&currStreakLabel=24292F&sideLabels=57606A&dates=8B949E&currStreakNum=24292F&sideNums=24292F">
+</picture>
+
+<sub>The Codeforces badge above is wired for `.github/workflows/update-stats.yml`, which re-fetches my rating via the Codeforces API on a schedule and commits it back automatically — see `/scripts/update_stats.py`.</sub>
+
+---
+
+<div align="center">
+
+*Currently optimizing two things: agent latency, and my Codeforces rating.*
+
+</div>
