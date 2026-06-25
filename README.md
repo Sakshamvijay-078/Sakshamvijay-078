@@ -22,10 +22,7 @@ learning   -> Kubernetes, Terraform, distributed systems
 open_to    -> SDE / AI-ML internships & full-time roles
 ```
 
-<!--CF_STATS:START-->
 ![Codeforces](https://img.shields.io/badge/Codeforces-1459-000000?style=flat-square)
-<sub>static — wire up `scripts/update_stats.py` below to make this self-updating</sub>
-<!--CF_STATS:END-->
 ![LeetCode](https://img.shields.io/badge/LeetCode-250%2B%20solved-000000?style=flat-square)
 ![Mentoring](https://img.shields.io/badge/Mentored-30%2B%20students-000000?style=flat-square)
 ![Role](https://img.shields.io/badge/Coding%20Club%20IIT%20Jammu-Co--Head%2C%20Web%20Dev-000000?style=flat-square)
