@@ -1,0 +1,31 @@
+name: Update Codeforces Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch: {}       # allows manual trigger from the Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Fetch Codeforces stats and update README
+        run: python scripts/update_stats.py
+        env:
+          CF_HANDLE: ${{ secrets.CF_HANDLE }}   # set this in repo Settings > Secrets > Actions
+
+      - name: Commit changes if README changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh Codeforces stats"
+          file_pattern: README.md
